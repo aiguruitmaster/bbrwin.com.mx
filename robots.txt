@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bbrwin.com.mx/sitemap.xml
